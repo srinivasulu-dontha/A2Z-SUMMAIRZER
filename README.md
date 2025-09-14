@@ -1,6 +1,3 @@
-Absolutely! Here's a **professional and detailed README** for your A2Z Summarizer project, ready to put on GitHub or share with others:
-
----
 
 # 📝 A2Z Extractive Summarizer
 
@@ -123,8 +120,3 @@ This project is **open-source** and free to use under the [MIT License](LICENSE)
 
 ✅ This README is **professional, clear, and complete** for GitHub or portfolio submission.
 
----
-
-If you want, I can also **create a ready-to-use `requirements.txt`** and a **project folder structure with screenshots placeholder** so you can just upload it to GitHub.
-
-Do you want me to do that?
